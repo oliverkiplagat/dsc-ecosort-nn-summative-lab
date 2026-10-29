@@ -1,0 +1,13 @@
+# Environment & Virtual Environments
+VENV/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset Files & Archives
+RealWaste/
+realwaste.zip
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
